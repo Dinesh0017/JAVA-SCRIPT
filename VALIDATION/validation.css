@@ -1,0 +1,24 @@
+.tf{
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    background-color: rgb(222, 221, 220);
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.head{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.button{
+    background-color: rgb(191, 227, 227);
+    cursor: pointer;
+}
+ .tikk{
+    cursor: pointer;
+ }
